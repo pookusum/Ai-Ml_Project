@@ -1,0 +1,66 @@
+question,answer,language
+What is your name?,My name is Alita.,english
+How are you?,I'm doing well thank you for asking! How about you?,english
+What time is it?,I don't have access to real-time information but I can help with other questions.,english
+What is the weather today?,I don't have access to real-time weather information but I can help with other questions.,english
+Tell me a joke,Why don't scientists trust atoms? Because they make up everything!,english
+Who created you?,I was created by a developer using Python and natural language processing techniques.,english
+What can you do?,I can answer questions in English and Hindi tell jokes provide information on various topics and have a conversation with you.,english
+How old are you?,I don't have an age as I'm an AI program. I was recently developed to help answer your questions.,english
+What is the meaning of life?,The meaning of life is a philosophical question that has many different answers depending on one's perspective. Some find meaning in relationships others in achievement or spirituality.,english
+What is your favorite color?,I don't have preferences as I'm an AI but I can process all colors equally well!,english
+आपका नाम क्या है?,मेरा नाम Alita है।,hindi
+आप कैसे हैं?,मैं अच्छा हूँ पूछने के लिए धन्यवाद! आप कैसे हैं?,hindi
+अभी कितने बजे हैं?,मुझे वास्तविक समय की जानकारी नहीं है लेकिन मैं अन्य प्रश्नों में मदद कर सकता हूं।,hindi
+आज का मौसम कैसा है?,मुझे वास्तविक समय के मौसम की जानकारी नहीं है लेकिन मैं अन्य प्रश्नों में मदद कर सकता हूं।,hindi
+मुझे एक जोक सुनाओ,वैज्ञानिक परमाणुओं पर भरोसा क्यों नहीं करते? क्योंकि वे सब कुछ बना देते हैं!,hindi
+आपको किसने बनाया?,मुझे एक डेवलपर ने पायथन और नेचुरल लैंग्वेज प्रोसेसिंग तकनीकों का उपयोग करके बनाया था।,hindi
+आप क्या कर सकते हैं?,मैं अंग्रेजी और हिंदी में सवालों के जवाब दे सकता हूं जोक्स सुना सकता हूं विभिन्न विषयों पर जानकारी प्रदान कर सकता हूं और आपसे बातचीत कर सकता हूं।,hindi
+आपकी उम्र कितनी है?,मेरी कोई उम्र नहीं है क्योंकि मैं एक AI प्रोग्राम हूं। मुझे हाल ही में आपके सवालों का जवाब देने में मदद करने के लिए विकसित किया गया था।,hindi
+जीवन का अर्थ क्या है?,जीवन का अर्थ एक दार्शनिक प्रश्न है जिसके कई अलग-अलग उत्तर हो सकते हैं जो व्यक्ति के दृष्टिकोण पर निर्भर करता है। कुछ लोग रिश्तों में अर्थ पाते हैं अन्य उपलब्धि या आध्यात्मिकता में।,hindi
+आपका पसंदीदा रंग क्या है?,मेरी कोई प्राथमिकता नहीं है क्योंकि मैं एक AI हूं लेकिन मैं सभी रंगों को समान रूप से अच्छी तरह से प्रोसेस कर सकता हूं!,hindi
+What is your नाम?,My name is Alita. You can call me Alita.,mixed
+How are आप feeling today?,I'm doing well thank you for asking! How about you?,mixed
+Tell me एक joke,Why don't scientists trust atoms? Because they make up everything!,mixed
+आप what can do?,I can answer questions in English and Hindi tell jokes provide information on various topics and have a conversation with you.,mixed
+मेरा name is user,Nice to meet you! How can I help you today?,mixed
+What is Python?,Python is a high-level interpreted programming language known for its readability and versatility. It's widely used in data science web development artificial intelligence and more.,english
+How does machine learning work?,Machine learning is a subset of artificial intelligence that enables computers to learn from data and improve their performance on specific tasks without being explicitly programmed. It works by identifying patterns in data and making predictions or decisions based on those patterns.,english
+What is artificial intelligence?,Artificial intelligence is the simulation of human intelligence in machines that are programmed to think and learn like humans. It encompasses various fields including machine learning natural language processing and computer vision.,english
+Who is the prime minister of India?,As of my last update Narendra Modi is the Prime Minister of India. Please note that political positions may change over time.,english
+What is the capital of India?,The capital of India is New Delhi.,english
+What is the population of India?,As of my last update India's population is approximately 1.4 billion people making it the second most populous country in the world after China.,english
+What is the largest city in India?,Mumbai (formerly known as Bombay) is the largest city in India by population.,english
+What is the national animal of India?,The national animal of India is the Bengal Tiger (Panthera tigris tigris).,english
+What is the national bird of India?,The national bird of India is the Indian Peafowl commonly known as the peacock.,english
+What is the national flower of India?,The national flower of India is the Lotus (Nelumbo nucifera).,english
+पायथन क्या है?,पायथन एक उच्च-स्तरीय व्याख्या की गई प्रोग्रामिंग भाषा है जो अपनी पठनीयता और बहुमुखी प्रतिभा के लिए जानी जाती है। इसका उपयोग डेटा साइंस वेब डेवलपमेंट आर्टिफिशियल इंटेलिजेंस और अन्य क्षेत्रों में व्यापक रूप से किया जाता है।,hindi
+मशीन लर्निंग कैसे काम करती है?,मशीन लर्निंग आर्टिफिशियल इंटेलिजेंस का एक उपसमूह है जो कंप्यूटर को डेटा से सीखने और विशिष्ट कार्यों पर अपने प्रदर्शन को बिना स्पष्ट रूप से प्रोग्राम किए सुधारने की अनुमति देता है।,hindi
+भारत के प्रधान मंत्री कौन हैं?,मेरी जानकारी के अनुसार नरेंद्र मोदी भारत के प्रधान मंत्री हैं। कृपया ध्यान दें कि राजनीतिक पद समय के साथ बदल सकते हैं।,hindi
+भारत की राजधानी क्या है?,भारत की राजधानी नई दिल्ली है।,hindi
+भारत की जनसंख्या कितनी है?,मेरी जानकारी के अनुसार भारत की जनसंख्या लगभग 1.4 अरब लोग है जो इसे चीन के बाद दुनिया का दूसरा सबसे अधिक आबादी वाला देश बनाती है।,hindi
+Hello,Hi there! How can I help you today?,english
+Hi,Hello! What can I do for you?,english
+Hey,Hey there! How can I assist you?,english
+नमस्ते,नमस्ते! मैं आपकी क्या मदद कर सकता हूं?,hindi
+हैलो,हैलो! आज मैं आपकी कैसे सहायता कर सकता हूं?,hindi
+Goodbye,Goodbye! Have a great day!,english
+Bye,Bye! Feel free to call again if you need anything.,english
+See you later,See you later! Take care!,english
+अलविदा,अलविदा! आपका दिन शुभ हो!,hindi
+फिर मिलेंगे,फिर मिलेंगे! अपना ख्याल रखना!,hindi
+Thank you,You're welcome! Is there anything else I can help with?,english
+Thanks,Happy to help! Do you need anything else?,english
+धन्यवाद,आपका स्वागत है! क्या मैं और कुछ मदद कर सकता हूं?,hindi
+शुक्रिया,मदद करके खुशी हुई! क्या आपको कुछ और चाहिए?,hindi
+Help,I can answer questions provide information or just chat. What would you like to know?,english
+मदद,मैं आपके सवालों का जवाब दे सकता हूं जानकारी प्रदान कर सकता हूं या बस बात कर सकता हूं। आप क्या जानना चाहेंगे?,hindi
+Yes,Great! How can I help you further?,english
+Yeah,Excellent! What would you like to know?,english
+हां,बढ़िया! मैं आपकी और कैसे मदद कर सकता हूं?,hindi
+जी हां,उत्तम! आप क्या जानना चाहेंगे?,hindi
+No,I understand. Is there something else I can help with?,english
+Nope,Alright. Feel free to ask if you need anything else.,english
+नहीं,मैं समझता हूं। क्या कुछ और है जिसमें मैं मदद कर सकता हूं?,hindi
+ना,ठीक है। अगर आपको कुछ और चाहिए तो पूछने में संकोच न करें।,hindi
+
